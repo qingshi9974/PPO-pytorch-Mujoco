@@ -1,0 +1,10 @@
+lr_actor = 0.0003
+lr_critic = 0.0003
+Iter = 15000
+MAX_STEP = 10000
+gamma =0.98
+lambd = 0.98
+batch_size = 64
+epsilon = 0.2
+l2_rate = 0.001
+beta = 3
