@@ -1,5 +1,5 @@
 # PPO-pytorch-Mujoco
-Implement PPO algorithm in mujoco environment，such as Ant-v2, Humanoid-v2, Hopper-v2, Halfcheeth-v2.
+Implement PPO algorithm on mujoco environment，such as Ant-v2, Humanoid-v2, Hopper-v2, Halfcheeth-v2.
 
 ## Requirements
 - python 3.7.6
