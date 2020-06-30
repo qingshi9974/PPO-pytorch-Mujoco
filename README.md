@@ -14,3 +14,9 @@ $ python main.py --env_name Hopper-v2
 ## Results
 ### Hopper-v2 
 ![image](https://github.com/qingshi9974/PPO-pytorch-Mujoco/raw/master/images/hopper-v2.png)
+### Humanoid-v2 
+![image](https://github.com/qingshi9974/PPO-pytorch-Mujoco/raw/master/images/hopper-v2.png)
+### Halfcheetah-v2 
+![image](https://github.com/qingshi9974/PPO-pytorch-Mujoco/raw/master/images/Halfcheetah-v2.png)
+### Ant-v2 
+![image](https://github.com/qingshi9974/PPO-pytorch-Mujoco/raw/master/images/Ant-v2 .png)
